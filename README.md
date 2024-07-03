@@ -18,4 +18,4 @@ This is a full-stack web application built with the MERN (MongoDB, Express.js, R
 - **Database:** MongoDB
 - **Authentication:** JSON Web Tokens (JWT)
 - **UI Libraries:** Material-UI or Bootstrap
-- **Other Libraries:** react-router-dom, axios, bcryptjs, jsonwebtoken
+- **Other Libraries:** react-router-dom, axios, bcryptjs, jsonwebtoken, jwt ,jwt
